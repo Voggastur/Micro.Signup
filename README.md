@@ -4,7 +4,7 @@
 This is my demo application built in one day in Salts full stack bootcamp.
 It uses a sqlite server with .Net webapi backend and react frontend to make a signup page.
 
-The frontend contains three components, a sign in page, a sign up page, and a simple home page where you will land after successful signup/signin.
+The frontend contains three components, a sign in page, a sign up page, and a home page where you will land after successful signup/signin.
 
 Signup creates users in the docker sql server which can be played around with via tools such as Sequel Pro or Azure data studio.
 
